@@ -1,5 +1,0 @@
-.docker
-node_modules
-yarn.lock
-.env
-tmp
